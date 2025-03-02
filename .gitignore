@@ -1,0 +1,11 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Environment and secrets
+.env
+appsettings.Development.json
+
+# Package and dependency caches
+packages/
+node_modules/
