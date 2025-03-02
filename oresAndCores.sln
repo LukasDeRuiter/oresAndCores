@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oresAndCores", "oresAndCores.csproj", "{540FF135-74A4-7B61-9C66-BDE12320729D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540FF135-74A4-7B61-9C66-BDE12320729D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540FF135-74A4-7B61-9C66-BDE12320729D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540FF135-74A4-7B61-9C66-BDE12320729D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540FF135-74A4-7B61-9C66-BDE12320729D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E408FA8-22B6-4872-BAAF-DD1D46F22832}
+	EndGlobalSection
+EndGlobal
