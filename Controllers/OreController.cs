@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Text.Encodings.Web;
 
 namespace oresAndCores.Controllers
 {
-    [Route("home")]
+    [Route("ore")]
     public class OreController : Controller
     {
         public IActionResult Index()
