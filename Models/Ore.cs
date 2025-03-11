@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace oresAndCores.Models;
 
-public class OreController
+public class Ore
 {
     public int Id { get; set; }
     public string Name { get; set; }
